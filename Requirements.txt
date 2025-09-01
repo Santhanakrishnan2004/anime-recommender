@@ -1,0 +1,10 @@
+Flask
+flask-cors
+Werkzeug
+PyJWT
+pymongo
+dnspython
+pandas
+numpy
+joblib
+gunicorn
